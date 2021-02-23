@@ -1,2 +1,6 @@
-printf("12")
-charishma
+#include<stdio.h>
+void main()
+{
+printf("12");
+getch();
+}
